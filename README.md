@@ -1,2 +1,2 @@
 # malEmailPDF
-Tri-fold/Brochure explaining how to go about analyzing a potentially malicious email.
+Tri-fold/Brochure explaining how to analyze a potentially malicious email.
